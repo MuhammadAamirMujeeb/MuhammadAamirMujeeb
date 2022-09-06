@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Django,Flask, DRF, SQL, ML, Data Analyst**
 
-- 📫 How to reach me **https://www.linkedin.com/in/muhammad-aamir-mujeeb-6b9161147/**
+- 📫 How to reach me **Linkedin @muhammad-aamir-mujeeb-6b9161147**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
