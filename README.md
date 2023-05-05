@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Aamir Mujeeb</h1>
 <h3 align="center">A passionate python developer from Pakistan</h3>
 
-- 🔭 I’m currently working **Python Developer**
+- 🔭 I’m currently working as a **Python Developer**
 
 - 🌱 I’m currently learning **Data Analytics**
 
