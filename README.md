@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Aamir Mujeeb</h1>
 <h3 align="center">A passionate python developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Office Management System](https://omsbe.enigmatix.co/)
+- 🔭 I’m currently working **Python Developer**
 
 - 🌱 I’m currently learning **Data Analytics**
 
-- 💬 Ask me about **Python, Django,Flask, DRF, SQL, ML, Data Analyst**
+- 💬 Ask me about **Python, Django,Flask,FastAPI, DRF, SQL, ML, Data Analyst**
 
 - 📫 How to reach me **Linkedin @muhammad-aamir-mujeeb-6b9161147**
 
